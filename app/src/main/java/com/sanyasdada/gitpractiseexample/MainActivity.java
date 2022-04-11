@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         println("i am the champion i am the winner");
+        println("i am the winner i am the better one");
 
     }
 }
